@@ -1,8 +1,8 @@
-# TO-DO-LIST
-
 # To-Do App
 
 A simple and efficient To-Do app to organize your tasks, stay productive, and manage your daily goals. Built with HTML, CSS, and JavaScript, this app allows users to add, edit, and remove tasks in an intuitive interface.
+
+![To-Do App Screenshot](./view.png)
 
 ## Features
 
